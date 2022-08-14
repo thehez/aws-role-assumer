@@ -1,3 +1,3 @@
 # aws-role-assumer
 
-## A quick and dirty role assumption script that will take some information and update the .aws/credentials for me
+A quick role assumption script that will update the ~/.aws/credentials file to save manual effort
